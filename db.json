@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Validados Total": [
+    { "Validados": 17 },
+    { "Sin validar": 11 },
+    { "Total": 28 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Por Zona": [
+    { "Zona": "General", "Validados": 8, "Sin validar": 1 },
+    { "Zona": "Grada", "Validados": 10, "Sin validar": 9 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
