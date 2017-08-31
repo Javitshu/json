@@ -1,11 +1,11 @@
 {
   "Validados Total": [
-    { "Validados": 17 },
-    { "Sin validar": 11 },
-    { "Total": 28 }
+      "Validados": 17,
+      "Sin validar": 11,
+      "Total": 28
   ],
   "Por Zona": [
-    { "Zona": "General", "Validados": 8, "Sin validar": 1 },
-    { "Zona": "Grada", "Validados": 10, "Sin validar": 9 }
+      "Zona": "General", "Validados": 8, "Sin validar": 1,
+      "Zona": "Grada", "Validados": 10, "Sin validar": 9
   ],
 }
